@@ -6,12 +6,15 @@
   <img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="Welcome GIF" />
 </p>
 
-<h1 align="center">👩🏻‍💻 I'm Luciana Fontes</h1>
-</p>
+<h1 align="center">
+  <img src="https://github.com/lucianarfontes/lucianarfontes/blob/main/profile-logo.png" height="30px" style="vertical-align: middle;"> 
+   I'm <span style="color: #7B61FF;">Luciana Fontes</span> 
+</h1>
 
 <p align="center">
   <strong>Governance, Risk & Compliance Specialist | Data Analytics Expert</strong>
 </p>
+
 
 ### 🎯 Professional Highlights
 
