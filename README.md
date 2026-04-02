@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/lucianarfontes/profile-banner/main/banner.png](https://github.com/lucianarfontes/lucianarfontes/blob/main/profile-banner.png)" width="882" alt="Luciana Fontes Banner">
+  <img src="https://github.com/lucianarfontes/lucianarfontes/blob/main/profile-banner.png" width="882" alt="Luciana Fontes Banner">
 </p>
 
 <p align="center">
