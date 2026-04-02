@@ -9,9 +9,10 @@
 <h1 align="center">👩🏻‍💻 I'm Luciana Fontes</h1>
 </p>
 
-<h1 align="center">
-  👩🏻‍💻 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=I'm%20&fontSize=30&height=45&fontAlignY=50" align="center" /> <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7b61ff&text=Luciana%20Fontes&fontSize=40&height=50&fontStyle=cursive&fontAlignY=50" align="center" />
-</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MartinVerwimp/MartinVerwimp/main/hello.gif" width="30px" style="vertical-align: middle;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&pause=1000&color=FFFFFF&vCenter=true&width=550&height=100&lines=I'm+%3Cspan+style%3D%22color%3A7b61ff%22%3ELuciana+Fontes%3C%2Fspan%3E" alt="I'm Luciana Fontes" style="vertical-align: middle;">
+</p>
 
 </p>
 
