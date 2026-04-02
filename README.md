@@ -2,11 +2,7 @@
   <img src="https://github.com/lucianarfontes/lucianarfontes/blob/main/profile-banner.png" width="882" alt="Luciana Fontes Banner">
 </p>
 
-<p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flucianarfontes&count_bg=%230077B5&title_bg=%23555555&icon=graph.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/>
-  </a>
-</p>
+
 
 <p align="center">
   <img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="Welcome GIF" />
