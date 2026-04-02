@@ -2,13 +2,18 @@
   <img src="https://github.com/lucianarfontes/lucianarfontes/blob/main/profile-banner.png" width="882" alt="Luciana Fontes Banner">
 </p>
 
-
-
 <p align="center">
   <img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="Welcome GIF" />
 </p>
 
 <h1 align="center">👩🏻‍💻 I'm Luciana Fontes</h1>
+</p>
+
+👩🏻‍💻
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=I'm%20&fontSize=40&fontAlignY=40&height=100">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7b61ff&text=Luciana%20Fontes&fontSize=50&fontAlignY=40&height=100&fontStyle=cursive">
+</p>
 
 <p align="center">
   <strong>Governance, Risk & Compliance Specialist | Data Analytics Expert</strong>
