@@ -9,10 +9,10 @@
 <h1 align="center">👩🏻‍💻 I'm Luciana Fontes</h1>
 </p>
 
-👩🏻‍💻
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=I'm%20&fontSize=40&fontAlignY=40&height=100">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7b61ff&text=Luciana%20Fontes&fontSize=50&fontAlignY=40&height=100&fontStyle=cursive">
+<h1 align="center">
+  👩🏻‍💻 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=I'm%20&fontSize=30&height=45&fontAlignY=50" align="center" /> <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7b61ff&text=Luciana%20Fontes&fontSize=40&height=50&fontStyle=cursive&fontAlignY=50" align="center" />
+</h1>
+
 </p>
 
 <p align="center">
