@@ -29,7 +29,7 @@
 
 ## 👩🏻‍💻 About Me
 
-With over a decade of experience managing high-stakes operational environments, I have transitioned into the field of Data Intelligence and Risk Management. I specialize in managing **LATAM projects**, transforming complex auditing processes and risk frameworks into interactive Power BI dashboards. My goal is to empower organizations with visual, data-backed strategies for Governance, Compliance, and AI Ethics.
+With over a decade of experience managing high-stakes operational environments, I have transitioned into the field of Data Intelligence and Risk Management. I specialise in managing LATAM projects and transforming complex auditing processes and risk frameworks into interactive Power BI dashboards. My goal is to empower organisations with visual, data-backed strategies for governance, compliance and AI ethics.
 
 ---
 
