@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://github.com/lucianarfontes/lucianarfontes/blob/main/profile-logo.png" height="30px" style="vertical-align: middle;"> 
+  <img src="https://github.com/lucianarfontes/lucianarfontes/blob/main/profile-logo.png" height="30px" style="vertical-align: middle;"> &nbsp; 
    I'm <span style="color: #7B61FF;">Luciana Fontes</span> 
 </h1>
 
@@ -16,34 +16,35 @@
 </p>
 
 
-### 🎯 Professional Highlights
+## 🎯 Professional Highlights
 
 * 📊 **Data Analytics Specialist** focused on Governance, Risk & Compliance (GRC).
 * 🛡️ **Risk Management & Audit Specialist** with 12+ years of expertise in high-complexity environments.
-* 🌎 **Strategic Expertise in LATAM Projects:** Managing regional compliance and developing risk frameworks.
+* 🌐 **Strategic Expertise in LATAM Projects:** Managing regional compliance and developing risk frameworks.
 * 🤖 **AI Risk Governance:** Implementing specialized taxonomies (MIT FutureTech) for tech-risk mitigation.
 * 📈 **Expert in Power BI (DAX)**, BPMN process optimization, and Data Storytelling.
 * 💡 **Bridging the gap** between regulatory requirements and data-driven insights.
 
 ---
 
-### 📖 About Me
+## 👩🏻‍💻 About Me
 
 With over a decade of experience managing high-stakes operational environments, I have transitioned into the field of Data Intelligence and Risk Management. I specialize in managing **LATAM projects**, transforming complex auditing processes and risk frameworks into interactive Power BI dashboards. My goal is to empower organizations with visual, data-backed strategies for Governance, Compliance, and AI Ethics.
 
 ---
 
-### 🤝 Connect with me 
+## 🤝 Connect with me 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/lucianarfontes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Luciana | LinkedIn" height="40px"/></a>
 </p>
 
+
 ---
 
-### 💼 Expertise & Tech Stack
+## 🏛️ Expertise & Tech Stack
 
-#### 🛡️ GRC (Governance, Risk & Compliance), Audit & Resilience
+### 🛡️ GRC (Governance, Risk & Compliance), Audit & Resilience
 ![ISO 31000](https://img.shields.io/badge/ISO_31000-E02424?style=for-the-badge) 
 ![ISO 27001](https://img.shields.io/badge/ISO_27001-0052CC?style=for-the-badge) 
 ![ISO 22301](https://img.shields.io/badge/ISO_22301-00838F?style=for-the-badge) 
@@ -61,7 +62,7 @@ With over a decade of experience managing high-stakes operational environments, 
 ![IB Solution](https://img.shields.io/badge/IB_Solution-009845?style=for-the-badge) 
 ![Perinity](https://img.shields.io/badge/Perinity-7B1FA2?style=for-the-badge)
 
-#### 📊 Data Analytics & Business Intelligence
+### 📊 Data Analytics & Business Intelligence
 ![Power BI](https://img.shields.io/badge/Microsoft_Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge) 
@@ -74,7 +75,7 @@ With over a decade of experience managing high-stakes operational environments, 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge) 
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
-#### ⚙️ Process Excellence & Strategy
+### ⚙️ Process Excellence & Strategy
 ![Six Sigma](https://img.shields.io/badge/Six_Sigma-FFD700?style=for-the-badge&logoColor=black) 
 ![Yellow Belt](https://img.shields.io/badge/Yellow_Belt-FFEB3B?style=for-the-badge&logoColor=black) 
 ![White Belt](https://img.shields.io/badge/White_Belt-FFFFFF?style=for-the-badge&logoColor=black) 
@@ -82,26 +83,32 @@ With over a decade of experience managing high-stakes operational environments, 
 ![Quality Assurance](https://img.shields.io/badge/Quality_Assurance-00A4EF?style=for-the-badge) 
 ![BPMN 2.0](https://img.shields.io/badge/BPMN_2.0-00A4EF?style=for-the-badge)
 
-#### 💻 Digital Operations & Tech Tools
+### 💻 Digital Operations & Tech Tools
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white) 
+![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white) 
+![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white) 
+![Lists](https://img.shields.io/badge/Microsoft_Lists-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) 
+![Microsoft Forms](https://img.shields.io/badge/Microsoft_Forms-008272?style=for-the-badge&logo=microsoftforms&logoColor=white)
+![Clipchamp](https://img.shields.io/badge/Microsoft_Clipchamp-5F259F?style=for-the-badge)
 ![Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoftvisio&logoColor=white) 
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
 ![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white) 
-![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white) 
-![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white) 
-![Lists](https://img.shields.io/badge/Microsoft_Lists-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) 
-![Clipchamp](https://img.shields.io/badge/Microsoft_Clipchamp-5F259F?style=for-the-badge)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) 
+
+
+
+
 
 ---
 
-### 🗺 Repository Guide
+## 📂  Repository Guide
 
 - 📊 **[Portfolio](https://github.com/lucianarfontes/Portfolio-Power-BI):** Data Science and Analytics projects developed for my professional portfolio, featuring advanced dashboards in Power BI.
+
 - 🎓 **[Certifications](https://github.com/lucianarfontes/certifications):** Summaries, study notes, and documentation covering both hard and soft skills acquired throughout my technical development.
 
 ---
