@@ -33,7 +33,7 @@ With over a decade of experience managing high-stakes operational environments, 
 
 ---
 
-### 🤝 Connect with me 🤝
+### 🤝 Connect with me 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/lucianarfontes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Luciana | LinkedIn" height="40px"/></a>
