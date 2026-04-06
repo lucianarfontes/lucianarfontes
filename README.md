@@ -12,7 +12,7 @@
 </h1>
 
 <p align="center">
-  <strong>Governance, Risk & Compliance Specialist | Data Analytics Expert</strong>
+  <strong>Governance, Risk & Audit Specialist | Data Analytics Expert</strong>
 </p>
 
 
