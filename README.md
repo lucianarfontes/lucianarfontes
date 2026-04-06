@@ -106,7 +106,7 @@ With over a decade of experience managing high-stakes operational environments, 
 ---
 
 ## 📂  Repository Guide
-
+> 🔗*Explore my professional journey and click on the links below to view my projects and credentials in detail.*
 - 📊 **[Portfolio](https://github.com/lucianarfontes/Portfolio-Power-BI):** Data Science and Analytics projects developed for my professional portfolio, featuring advanced dashboards in **Power BI**.
 
 - 🎓 **[Certifications](https://github.com/lucianarfontes/certifications):** Summaries and a comprehensive list of certifications covering hard and soft skills acquired throughout my technical development.
