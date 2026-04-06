@@ -104,4 +104,20 @@ With over a decade of experience managing high-stakes operational environments, 
 - 🎓 **[Certifications](https://github.com/lucianarfontes/certifications):** Summaries and a comprehensive list of certifications covering hard and soft skills acquired throughout my technical development.
 
 ---
+
+###
+
+<h3 align="left">📈   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=lucianarfontes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+---
 <p align="center">© 2026 Luciana Fontes. All rights reserved.</p>
+
+
