@@ -26,13 +26,11 @@
 * 📈 **Expert in Power BI (DAX)**, BPMN process optimization, and Data Storytelling.
 * 💡 **Bridging the gap** between regulatory requirements and data-driven insights.
 
----
 
 ## 👩🏻‍💻 About Me
 
 With over a decade of experience managing high-stakes operational environments, I have transitioned into the field of Data Intelligence and Risk Management. I specialise in managing LATAM projects and transforming complex auditing processes and risk frameworks into interactive Power BI dashboards. My goal is to empower organisations with visual, data-backed strategies for governance, compliance and AI ethics.
 
----
 
 ## 🤝 Connect with me 
 
@@ -40,8 +38,6 @@ With over a decade of experience managing high-stakes operational environments, 
 <a href="https://www.linkedin.com/in/lucianarfontes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Luciana | LinkedIn" height="40px"/></a>
 </p>
 
-
----
 
 ## 🏛️ Expertise & Tech Stack
 
@@ -100,11 +96,6 @@ With over a decade of experience managing high-stakes operational environments, 
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white) 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) 
 
-
-
-
-
----
 
 ## 📂  Repository Guide
 > 🔗*Explore my professional journey and click on the links below to view my projects and credentials in detail.*
